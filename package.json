@@ -1,0 +1,32 @@
+{
+  "name": "uaohub",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/auth-helpers-nextjs": "^0.6.0",
+    "@supabase/auth-helpers-react": "^0.3.1",
+    "@supabase/supabase-js": "^2.15.0",
+    "autoprefixer": "10.4.14",
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0",
+    "javascript-time-ago": "^2.5.9",
+    "next": "13.3.0",
+    "postcss": "8.4.21",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-spinners": "^0.13.8",
+    "react-time-ago": "^7.2.1",
+    "tailwindcss": "3.3.1"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.7"
+  }
+}
